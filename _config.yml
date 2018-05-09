@@ -1,0 +1,25 @@
+# site settings
+title: Luke Hollomon - Science Tutor
+subtitle: Tutoring science and exam prep, online and in person.
+email: youremailaddress@gmail.com
+description: A science teacher and tutor in the DC area, specializing in exam prep and advanced science courses. Tutoring from middle school up to medical school.
+baseurl: ""
+url: http://lukethetutor.com
+
+# homepage tiles
+tiles-source: posts # accepts "posts" or "pages"
+tiles-count: 6
+
+# social settings
+500px_url:
+facebook_url:
+github_url:
+instagram_url: https://instagram.com
+pinterest_url:
+slack_url:
+
+# build settings
+markdown: kramdown
+
+sass:
+  style: compressed
